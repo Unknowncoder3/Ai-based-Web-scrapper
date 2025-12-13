@@ -1,4 +1,4 @@
-#🤖 AI-Powered Web Scraper with FAISS & Local LLM (RAG)
+🤖 AI-Powered Web Scraper with FAISS & Local LLM (RAG)
 
 An AI-powered web scraping and question-answering system built with Streamlit, FAISS, and local LLMs via Ollama.
 The application scrapes website content, converts it into vector embeddings, stores it in a FAISS vector database, and allows users to ask natural-language questions using a Retrieval-Augmented Generation (RAG) approach.
