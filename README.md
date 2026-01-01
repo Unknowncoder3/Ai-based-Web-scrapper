@@ -1,5 +1,4 @@
 
-```markdown
 # 🤖 AI-Based Web Scraper & Q&A System
 
 An intelligent **AI-powered web scraping and question-answering system** that automatically scrapes website content, embeds it into vectors, and enables natural language search and QA using advanced language models.
@@ -173,7 +172,7 @@ GitHub: [https://github.com/Unknowncoder3](https://github.com/Unknowncoder3)
 
 ⭐ If you find this project helpful, consider starring the repository!
 
-```
+
 
 ---
 
@@ -194,11 +193,11 @@ Deploy this as a Streamlit app:
 📍 `web_scraper_app.py` & host on **Streamlit / Render / Vercel**
 
 Add link:
-```
+
 
 🔗 Live Demo: [https://your-scraper.streamlit.app](https://your-scraper.streamlit.app)
 
-````
+
 
 ---
 
@@ -211,7 +210,7 @@ A picture of the UI or example Q&A boosts engagement.
 
 Place this after features:
 
-```markdown
+
 ## 📊 Example Query
 
 Input:
@@ -220,5 +219,5 @@ Input:
 
 Output:
 "SpaceX was founded by Elon Musk in 2002..."
-````
+
 
